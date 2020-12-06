@@ -1,22 +1,18 @@
-![xMrShadyx's github stats](https://github-readme-stats.vercel.app/api?username=xMrShadyx&show_icons=true&theme=merko)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xMrShadyx)](https://github.com/xMrShadyx/github-readme-stats)
-<br>
-Beautiful is better than ugly. <br>
-Explicit is better than implicit.<br>
-Simple is better than complex.<br>
-Complex is better than complicated.<br>
-Flat is better than nested.<br>
-Sparse is better than dense.<br>
-Readability counts.<br>
-Special cases aren't special enough to break the rules.<br>
-Although practicality beats purity.<br>
-Errors should never pass silently.<br>
-Unless explicitly silenced.<br>
-In the face of ambiguity, refuse the temptation to guess.<br>
-There should be one-- and preferably only one --obvious way to do it.<br>
-Although that way may not be obvious at first unless you're Dutch.<br>
-Now is better than never.<br>
-Although never is often better than *right* now.<br>
-If the implementation is hard to explain, it's a bad idea.<br>
-If the implementation is easy to explain, it may be a good idea.<br>
-Namespaces are one honking great idea -- let's do more of those!<br>
-<br><br>
+### Hi there 👋
+
+<img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
+
+I'm a self tought computer programmer who is passionate about writing code, solving problems, automating stuff, and building software.
+
+- 📚 I’m currently learning  backend web development using Python
+- 👯 I’m looking for a software development internship. 
+- 📫 How to reach me: [Gmail](mailto:daredevil91138@gmail.com)
+
+<br/>
+
+<a href="https://github.com/xMrShadyx">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xMrShadyx&theme=merko&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xMrShadyx&theme=merko&layout=compact" />
+</a>
+
+<br/>
