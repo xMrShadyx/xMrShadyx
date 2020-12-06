@@ -1,5 +1,7 @@
 ![xMrShadyx's github stats](https://github-readme-stats.vercel.app/api?username=xMrShadyx&show_icons=true&theme=merko)
 <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xMrShadyx)](https://github.com/xMrShadyx/github-readme-stats)
+<br>
 Beautiful is better than ugly. <br>
 Explicit is better than implicit.<br>
 Simple is better than complex.<br>
