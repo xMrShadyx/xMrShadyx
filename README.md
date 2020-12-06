@@ -1,6 +1,4 @@
-![xMrShadyx's github stats](https://github-readme-stats.vercel.app/api?username=xMrShadyx&show_icons=true&theme=merko)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xMrShadyx)](https://github.com/xMrShadyx/github-readme-stats)
+![xMrShadyx's github stats](https://github-readme-stats.vercel.app/api?username=xMrShadyx&show_icons=true&theme=merko)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xMrShadyx)](https://github.com/xMrShadyx/github-readme-stats)
 <br>
 Beautiful is better than ugly. <br>
 Explicit is better than implicit.<br>
