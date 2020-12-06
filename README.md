@@ -11,8 +11,7 @@ I'm a self tought computer programmer who is passionate about writing code, solv
 <br/>
 
 <a href="https://github.com/xMrShadyx">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xMrShadyx&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xMrShadyx&theme=buefy&layout=compact" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=xMrShadyx&theme=buefy&show_icons=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xMrShadyx&theme=buefy&layout=compact" />
 </a>
-[![xMrShadyx's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=xMrShadyx)](https://github.com/xMrShadyx/github-readme-stats)
 <br/>
