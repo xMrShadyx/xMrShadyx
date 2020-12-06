@@ -1,4 +1,4 @@
-![xMrShadyx's github stats](https://github-readme-stats.vercel.app/api?username=xMrShadyx&show_icons=true&theme=radical)
+![xMrShadyx's github stats](https://github-readme-stats.vercel.app/api?username=xMrShadyx&show_icons=true&theme=merko)
 <br>
 Beautiful is better than ugly. <br>
 Explicit is better than implicit.<br>
