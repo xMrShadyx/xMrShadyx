@@ -4,7 +4,7 @@
 
 I'm a self taught computer programmer who is passionate about writing code, solving problems, automating stuff, and building software.
 
-- 📚 I’m currently learning  backend web development using Python
+- 📚 I’m currently learning  backend web development using Java
 - 👯 I’m looking for a software development internship. 
 - 📫 How to reach me: [Gmail](mailto:daredevil91138@gmail.com)
 
